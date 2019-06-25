@@ -74,9 +74,9 @@
 
 - 平均分子量：可分为数均分子量、质均分子量、Z均分子量、粘均分子量。其中尤以**数均分子量最为常用**。
 
-- 数均分子量：（样品中所含聚合物分子总数为 ![]https://chart.googleapis.com/chart?cht=tx&chl=$n$ ，总质量为 ![]https://chart.googleapis.com/chart?cht=tx&chl=$w$）
+- 数均分子量：（样品中所含聚合物分子总数为 ![](https://chart.googleapis.com/chart?cht=tx&chl=$n$) ，总质量为 ![](https://chart.googleapis.com/chart?cht=tx&chl=$w$)）
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{M_n}=\sum{N_i M_i}=\frac{\sum{n_i M_i}}{\sum{n_i}}=\frac{w}{n}$
+![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{M_n}=\sum{N_i M_i}=\frac{\sum{n_i M_i}}{\sum{n_i}}=\frac{w}{n}$)
 
 ![1561136394312](IMG/高分子复习/1561136394312.png)
 
@@ -107,23 +107,23 @@
 - 其中聚合体系中**单体分子以及聚合物分子之间都能相互反应生成聚合度更高的聚合物分子**是逐步聚合反应**最根本的特征**，可作为逐步聚合反应的判据。 
 
 3. ## 平均官能度的概念和计算
-- 单体官能度（![]https://chart.googleapis.com/chart?cht=tx&chl=$f$) ：单体分子所含的参与聚合反应的功能基或反应点的数目。
+- 单体官能度（![](https://chart.googleapis.com/chart?cht=tx&chl=$f$)) ：单体分子所含的参与聚合反应的功能基或反应点的数目。
 
 >     f>=2 才能发生逐步聚合反应
 >     当f=2时，聚合反应中分子链向两个方向增长，得到线形聚合物；    
 >     当f>2时，分子链可向多个方向增长，可能得到支化甚至交联的聚合物。
 
-- 平均官能度（ ![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}$  ）：聚合反应体系中实际上能参与聚合反应的官能基数相对于体系中单体分子总数的平均值。 
+- 平均官能度（ ![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}$)  ）：聚合反应体系中实际上能参与聚合反应的官能基数相对于体系中单体分子总数的平均值。 
 
-- 计算：（假设体系含A、B两种功能基；![]https://chart.googleapis.com/chart?cht=tx&chl=$N_i$：官能度为![]https://chart.googleapis.com/chart?cht=tx&chl=$f_i$的单体分子数）
+- 计算：（假设体系含A、B两种功能基；![](https://chart.googleapis.com/chart?cht=tx&chl=$N_i$)：官能度为![](https://chart.googleapis.com/chart?cht=tx&chl=$f_i$)的单体分子数）
 
-1. 当 ![]https://chart.googleapis.com/chart?cht=tx&chl=$n_A = n_B$ 时，所有A、B官能团都能发生参与聚合反应，因此![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}$  等于体系中功能基总数相对于单体分子总数的平均值
+1. 当 ![](https://chart.googleapis.com/chart?cht=tx&chl=$n_A = n_B$) 时，所有A、B官能团都能发生参与聚合反应，因此![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}$)  等于体系中功能基总数相对于单体分子总数的平均值
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}= \frac{\sum{N_i f_i}}{N_i}$
+![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}= \frac{\sum{N_i f_i}}{N_i}$)
 
-2. 当 ![]https://chart.googleapis.com/chart?cht=tx&chl=$n_A \neq  n_B$ 时，体系中多余的功能基并不会参与聚合反应，实际上能参与聚合反应的功能基是**量少功能基数目的两倍**（假设 ![]https://chart.googleapis.com/chart?cht=tx&chl=$n_A < n_B$）
+2. 当 ![](https://chart.googleapis.com/chart?cht=tx&chl=$n_A \neq  n_B$) 时，体系中多余的功能基并不会参与聚合反应，实际上能参与聚合反应的功能基是**量少功能基数目的两倍**（假设 ![](https://chart.googleapis.com/chart?cht=tx&chl=$n_A < n_B$)）
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}= \frac{2\sum{N_A f_A}}{N_i}$
+![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}= \frac{2\sum{N_A f_A}}{N_i}$)
 
 4. ## 等活性理论
 
@@ -132,17 +132,17 @@
 
 5. ## 反应程度、聚合度的相互关系
 
-- 反应程度（P）：反应过程中功能基的转化程度，为参与反应的官能团数（![]https://chart.googleapis.com/chart?cht=tx&chl=$N_0 - N$）占起始官能团数（![]https://chart.googleapis.com/chart?cht=tx&chl=$N_0$）的分率（与单体转化率是两个不同的概念）
+- 反应程度（P）：反应过程中功能基的转化程度，为参与反应的官能团数（![](https://chart.googleapis.com/chart?cht=tx&chl=$N_0 - N$)）占起始官能团数（![](https://chart.googleapis.com/chart?cht=tx&chl=$N_0$)）的分率（与单体转化率是两个不同的概念）
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$P = \frac{N_0 - N}{N_0}= 1-\frac{N}{N_0}$
+![](https://chart.googleapis.com/chart?cht=tx&chl=$P = \frac{N_0 - N}{N_0}= 1-\frac{N}{N_0}$)
 
 > 在逐步聚合反应过程中，绝大部分单体在很短时间内就相互反应生成低聚体，因而单体转化率在短时间迅速达到某一极限值，但反应程度则随反应时间逐渐增大。
 
 当体系中所有的单体都**两两反应生成二聚体**时，单体转化率为100%，但**却只有一半的功能基已反应，反应程度只有0.5**
 
-- 数均聚合度（![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}$）：平均每个大分子中含有的结构单元数
+- 数均聚合度（![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}$)）：平均每个大分子中含有的结构单元数
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n} = \frac{起始单体的分子数}{生成聚合物的分子数}=\frac{N_0}{N}= \frac{1}{1-P}$
+![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n} = \frac{起始单体的分子数}{生成聚合物的分子数}=\frac{N_0}{N}= \frac{1}{1-P}$)
 
 ![1561139139287](IMG/高分子复习/1561139139287.png)
 
@@ -152,13 +152,13 @@
 
 - 反应程度影响产物的聚合度,而反应程度又取决于平衡常数,因此聚合度与平衡常数有关
 
-1. 当聚合反应在**封闭体系**中进行时，聚合反应能够达到的**最高反应程度会受到聚合反应平衡的限制**，继而限制聚合产物的聚合度![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}= \sqrt{K}+1$
+1. 当聚合反应在**封闭体系**中进行时，聚合反应能够达到的**最高反应程度会受到聚合反应平衡的限制**，继而限制聚合产物的聚合度![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}= \sqrt{K}+1$)
 
 2. 为了获得高分子量的聚合产物，就必须打破平衡，驱使反应平衡移向聚合反应。常用的方法是采用**开放体系**，在聚合反应过程中**不断地将小分子副产物从体系中除去**。
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n }= \sqrt{\frac{K c_0}{n_w}}$ （![]https://chart.googleapis.com/chart?cht=tx&chl=$c_0$为产物全部转化的浓度，![]https://chart.googleapis.com/chart?cht=tx&chl=$n_w$为副产物的浓度）
+![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n }= \sqrt{\frac{K c_0}{n_w}}$) （![](https://chart.googleapis.com/chart?cht=tx&chl=$c_0$)为产物全部转化的浓度，![](https://chart.googleapis.com/chart?cht=tx&chl=$n_w$)为副产物的浓度）
 
-> 若要合成相同![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}  $的聚合物，![]https://chart.googleapis.com/chart?cht=tx&chl=$K$值越小，要求聚合体系中残留的[H2O]（![]https://chart.googleapis.com/chart?cht=tx&chl=$n_w $）越少
+> 若要合成相同![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}  $)的聚合物，![](https://chart.googleapis.com/chart?cht=tx&chl=$K$)值越小，要求聚合体系中残留的[H2O]（![](https://chart.googleapis.com/chart?cht=tx&chl=$n_w $)）越少
 
 7. ## 逐步聚合产物分子量的稳定化
 
@@ -171,11 +171,11 @@
 
 - 聚合度：随着**反应程度的提高，聚合度分布变宽**，并且每条曲线都有极大值，其值可由质量分数分布函数微分等于0来求得。
 
-x-聚体的质量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl=$W_x = x p^{x-1}(1-p)^2$
+x-聚体的质量分布函数：![](https://chart.googleapis.com/chart?cht=tx&chl=$W_x = x p^{x-1}(1-p)^2$)
 
 ![质量分布曲线](IMG/高分子复习/1561193682265.png)
 
-x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl=$N_x = N p^{x-1}(1-p)$
+x-聚体的数量分布函数：![](https://chart.googleapis.com/chart?cht=tx&chl=$N_x = N p^{x-1}(1-p)$)
 
 ![数量分数分布曲线](IMG/高分子复习/1561193389800.png)
 
@@ -183,13 +183,13 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 逐步聚合产物的**聚合度分散系数随反应程度的提高而增大**，理论上分散系数最大接近2。 
 
-- 聚合度分散系数/分子量分布宽度为：![]https://chart.googleapis.com/chart?cht=tx&chl=$D=\frac{\overline{X_w}}{\overline{X_n}}=1+p$
+- 聚合度分散系数/分子量分布宽度为：![](https://chart.googleapis.com/chart?cht=tx&chl=$D=\frac{\overline{X_w}}{\overline{X_n}}=1+p$)
 
 9. ## 体形逐步聚合体系
 
-- 体形逐步聚合：某一官能度(![]https://chart.googleapis.com/chart?cht=tx&chl=$f=2$)的单体与另一**官能度(![]https://chart.googleapis.com/chart?cht=tx&chl=$f>2$)的单体**一起缩聚时，**先进行支化而后形成交联结构的三维体型缩聚物**的缩聚过程。
+- 体形逐步聚合：某一官能度(![](https://chart.googleapis.com/chart?cht=tx&chl=$f=2$))的单体与另一**官能度(![](https://chart.googleapis.com/chart?cht=tx&chl=$f>2$))的单体**一起缩聚时，**先进行支化而后形成交联结构的三维体型缩聚物**的缩聚过程。
 
-> 支化——有多官能团单体（![]https://chart.googleapis.com/chart?cht=tx&chl=$f>2$）存在时，生成非线性的多支链产物
+> 支化——有多官能团单体（![](https://chart.googleapis.com/chart?cht=tx&chl=$f>2$)）存在时，生成非线性的多支链产物
 >
 > 交联——有多官能团单体（f>2）存在时，生成体形结构聚合物
 
@@ -204,27 +204,27 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 11. ## Carothers法预测凝胶点的理论基础，产生凝胶的充要条件
 
-- 凝胶点：出现凝胶化现象时的**反应程度**叫做凝胶点，以 ![]https://chart.googleapis.com/chart?cht=tx&chl=$p_c$ 表示。（通常以聚合混合物中的气泡不能上升时的反应程度为凝胶点）
+- 凝胶点：出现凝胶化现象时的**反应程度**叫做凝胶点，以 ![](https://chart.googleapis.com/chart?cht=tx&chl=$p_c$) 表示。（通常以聚合混合物中的气泡不能上升时的反应程度为凝胶点）
 
 - 预测凝胶点的意义：热固性聚合物制品的生产过程多分成预聚物制备和成型固化两个阶段
 
 - Carothers方程的理论基础：凝胶点时的**数均聚合度为无穷大**。
 
-1. 两基团数相等时，**凝胶点时的反应程度![]https://chart.googleapis.com/chart?cht=tx&chl=$p_c $为：![]https://chart.googleapis.com/chart?cht=tx&chl=$p_c=\frac{2}{\overline{f}}$**
+1. 两基团数相等时，**凝胶点时的反应程度![](https://chart.googleapis.com/chart?cht=tx&chl=$p_c $)为：![](https://chart.googleapis.com/chart?cht=tx&chl=$p_c=\frac{2}{\overline{f}}$)**
 
-其中平均官能度![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}=\frac{\sum{N_i f_i}}{\sum{N_i}}$（每一分子平均带有的基团数），![]https://chart.googleapis.com/chart?cht=tx&chl=$p=\frac{反应基团数}{起始基团数}=\frac{2(N_0-N)}{N_0 \overline{f}}$（N为分子数、N0为起始分子数）因为 ![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}=\frac{N_0}{N}$，故![]https://chart.googleapis.com/chart?cht=tx&chl=$p=\frac{2}{f}(1-\frac{1}{\overline{X_n}})$，又因为![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}\to+\infty$（凝胶点时的**数均聚合度为无穷大**，但过高的估计了出现凝胶点时的反应程度，从而**使![]https://chart.googleapis.com/chart?cht=tx&chl=$p_c $计算值偏高**。）
+其中平均官能度![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}=\frac{\sum{N_i f_i}}{\sum{N_i}}$)（每一分子平均带有的基团数），![](https://chart.googleapis.com/chart?cht=tx&chl=$p=\frac{反应基团数}{起始基团数}=\frac{2(N_0-N)}{N_0 \overline{f}}$)（N为分子数、N0为起始分子数）因为 ![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}=\frac{N_0}{N}$)，故![](https://chart.googleapis.com/chart?cht=tx&chl=$p=\frac{2}{f}(1-\frac{1}{\overline{X_n}})$)，又因为![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}\to+\infty$)（凝胶点时的**数均聚合度为无穷大**，但过高的估计了出现凝胶点时的反应程度，从而**使![](https://chart.googleapis.com/chart?cht=tx&chl=$p_c $)计算值偏高**。）
 
 2. 两基团数不相等时
 
 1. 双组分体系（两种基团）
 
-应以非过量基团数的2倍除以分子总数来求取![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f }=\frac{2N_A f_A}{N_A+N_B}$
+应以非过量基团数的2倍除以分子总数来求取![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f }=\frac{2N_A f_A}{N_A+N_B}$)
 
 2. 多组分体系（计算时只考虑参与反应的基团数，不计算未参与反应的基团）
 
 > A和C的基团相同，A基团总数少于B基团数（A-C、A-B反应）
 
-则平均官能度按下式计算：![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}=\frac{2(N_A f_A+N_C f_C)}{N_A+N_B+N_C}$
+则平均官能度按下式计算：![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{f}=\frac{2(N_A f_A+N_C f_C)}{N_A+N_B+N_C}$)
 
 12. ## Flory统计法预测凝胶点理论基础，支化系数α和临界支化系数
 
@@ -232,10 +232,10 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 1. 等活性概念成立
 2. 所有缩合反应均在分子间进行，不发生分子内缩合
 - **支化系数α**：末端支化单元上某一基团产生另一支化单元的几率
-- 支化系数α与官能度![]https://chart.googleapis.com/chart?cht=tx&chl=$f$之间关系：
-- 如果支化单体的官能度为![]https://chart.googleapis.com/chart?cht=tx&chl=$f$，则链末端支化单元残留的官能度为![]https://chart.googleapis.com/chart?cht=tx&chl=$(f-1)$
-- 因此这支化单元的一个臂连接上另一个支化单元的几率就是![]https://chart.googleapis.com/chart?cht=tx&chl=$\frac{1}{f-1}$
-- 定义：凝胶产生时的**临界支化系数![]https://chart.googleapis.com/chart?cht=tx&chl=$α_c=\frac{1}{f-1}$**
+- 支化系数α与官能度![](https://chart.googleapis.com/chart?cht=tx&chl=$f$)之间关系：
+- 如果支化单体的官能度为![](https://chart.googleapis.com/chart?cht=tx&chl=$f$)，则链末端支化单元残留的官能度为![](https://chart.googleapis.com/chart?cht=tx&chl=$(f-1)$)
+- 因此这支化单元的一个臂连接上另一个支化单元的几率就是![](https://chart.googleapis.com/chart?cht=tx&chl=$\frac{1}{f-1}$)
+- 定义：凝胶产生时的**临界支化系数![](https://chart.googleapis.com/chart?cht=tx&chl=$α_c=\frac{1}{f-1}$)**
 
 # <span id="head3"> 第三章自由基聚合反应</span>
 
@@ -315,9 +315,9 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - **电子效应**：
 
-**单取代乙烯类单体（![]https://chart.googleapis.com/chart?cht=tx&chl=$CH_2＝CH－X$）**
+**单取代乙烯类单体（![](https://chart.googleapis.com/chart?cht=tx&chl=$CH_2＝CH－X$)）**
 
-取代基（![]https://chart.googleapis.com/chart?cht=tx&chl=$-X$）的电子效应，可分为诱导效应或共轭效应 
+取代基（![](https://chart.googleapis.com/chart?cht=tx&chl=$-X$)）的电子效应，可分为诱导效应或共轭效应 
 
 - 能改变双键的电子云密度，对所形成的活性中心的稳定性有影响 
 - 决定着单体对自由基、负离子或正离子活性中心的选择性 
@@ -328,7 +328,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 >
 > **卤原子**的诱导效应是吸电子，而共轭效应却有供电性，但两者均较弱。因此既不能进行阴离子聚合，也不能进行阳离子聚合，**只能进行自由基聚合**。
 
-1. （![]https://chart.googleapis.com/chart?cht=tx&chl=$-X $）为**推电子**基团
+1. （![](https://chart.googleapis.com/chart?cht=tx&chl=$-X $)）为**推电子**基团
 
 > 使乙烯类单体**容易进行正离子聚合**
 >
@@ -340,7 +340,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 ![1561230307527](IMG/高分子复习/1561230307527.png)
 
-2. （![]https://chart.googleapis.com/chart?cht=tx&chl=$-X $）为**吸电子**基团
+2. （![](https://chart.googleapis.com/chart?cht=tx&chl=$-X $)）为**吸电子**基团
 
 > 有利于**负离子聚合**
 >
@@ -399,13 +399,13 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 > **控制总的链引发反应速率**
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{R-R' ->T[加热] R·+R’·}$（初级自由基；吸热）
+![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{R-R' ->T[加热] R·+R’·}$)（初级自由基；吸热）
 
 2. 单体自由基的生成
 
-> 初级自由基与单体加成，打开烯类单体的![]https://chart.googleapis.com/chart?cht=tx&chl=$\pi $键（双键）、生成![]https://chart.googleapis.com/chart?cht=tx&chl=$\delta$键（单键）的过程，是放热反应 ；反应速率常数很大，是非常快的反应（活化能较低）
+> 初级自由基与单体加成，打开烯类单体的![](https://chart.googleapis.com/chart?cht=tx&chl=$\pi $)键（双键）、生成![](https://chart.googleapis.com/chart?cht=tx&chl=$\delta$)键（单键）的过程，是放热反应 ；反应速率常数很大，是非常快的反应（活化能较低）
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{R·+R'(单体分子) -> RR’·}$（单体自由基；放热）
+![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{R·+R'(单体分子) -> RR’·}$)（单体自由基；放热）
 
 - 链增长：
 
@@ -475,7 +475,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 10. ## 引发效率损耗的原因
 
-- 引发效率（![]https://chart.googleapis.com/chart?cht=tx&chl=$f $）：用于引发聚合的引发剂量占引发剂分解或消耗总量的百分率为引发效率
+- 引发效率（![](https://chart.googleapis.com/chart?cht=tx&chl=$f $)）：用于引发聚合的引发剂量占引发剂分解或消耗总量的百分率为引发效率
 - 损耗：引发剂分解产生的初级自由基，**只有一部分用来引发单体聚合**还有一部分引发剂由于诱导分解和/或笼蔽效应伴随的副反应而损耗 
 1. 自由基向引发剂分子的链转移反应
 2. 引发剂种类不同，引发效率大不相同
@@ -490,19 +490,19 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 1. 聚合速率是由链引发、链增长和链终止三种基元反应所决定，**假定链转移不影响聚合速率**，链终止反应为双基终止。
 2. **链自由基的活性与链长无关**，生成高分子化合物的无数个增长反应只用一个速率常数kp表征。（等活性假定）
 3. 假定**单体消耗速率就是聚合物生成速率**，形成高分子化合物时，链增长反应消耗的单体远远大于链引发反应，因此**聚合总速率可以用链增长速率表示**
-4. **聚合开始很短时间后，进入“稳定状态”**，体系中**自由基浓度不变**，链自由基的生成速率等于链自由基的消失速率，即![]https://chart.googleapis.com/chart?cht=tx&chl=$R_i=R_t$，则![1561234650000](IMG/高分子复习/1561234650000.png)
+4. **聚合开始很短时间后，进入“稳定状态”**，体系中**自由基浓度不变**，链自由基的生成速率等于链自由基的消失速率，即![](https://chart.googleapis.com/chart?cht=tx&chl=$R_i=R_t$)，则![1561234650000](IMG/高分子复习/1561234650000.png)
 
-12. ## 聚合速率（![]https://chart.googleapis.com/chart?cht=tx&chl=$R_p $）通式
+12. ## 聚合速率（![](https://chart.googleapis.com/chart?cht=tx&chl=$R_p $)）通式
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$R_p=K[I]^n [M]^m$（n = 0.5～1.0，m = 1.0～1.5 ）
+![](https://chart.googleapis.com/chart?cht=tx&chl=$R_p=K[I]^n [M]^m$)（n = 0.5～1.0，m = 1.0～1.5 ）
 
 实际测定：
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$R_p=-\frac{d[M]}{dt}（单体浓度随反应时间的减少）=\frac{d[p]}{dt}（聚合物浓度随反应时间的增加）$
+![](https://chart.googleapis.com/chart?cht=tx&chl=$R_p=-\frac{d[M]}{dt}（单体浓度随反应时间的减少）=\frac{d[p]}{dt}（聚合物浓度随反应时间的增加）$)
 
-- 转化率随时间的变化：![]https://chart.googleapis.com/chart?cht=tx&chl=$C=\frac{[M]_0 -[M]}{[M]_0}=1-\frac{[M]}{[M]_0}$、![]https://chart.googleapis.com/chart?cht=tx&chl=$\frac{dC}{dt}=\frac{-d[M]}{[M]_0  ·dt}$
+- 转化率随时间的变化：![](https://chart.googleapis.com/chart?cht=tx&chl=$C=\frac{[M]_0 -[M]}{[M]_0}=1-\frac{[M]}{[M]_0}$)、![](https://chart.googleapis.com/chart?cht=tx&chl=$\frac{dC}{dt}=\frac{-d[M]}{[M]_0  ·dt}$)
 
-- 或：![]https://chart.googleapis.com/chart?cht=tx&chl=$R_p=-\frac{d[M]}{dt}=[M]_0 \frac{dC}{dt}$
+- 或：![](https://chart.googleapis.com/chart?cht=tx&chl=$R_p=-\frac{d[M]}{dt}=[M]_0 \frac{dC}{dt}$)
 
 ![1561276356689](IMG/高分子复习/1561276356689.png)
 
@@ -510,13 +510,13 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 （ E值愈大，温度对聚合速率影响愈显著 ）
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$E=E_p-\frac{1}{2E_t}+\frac{1}{2E_d}$
+![](https://chart.googleapis.com/chart?cht=tx&chl=$E=E_p-\frac{1}{2E_t}+\frac{1}{2E_d}$)
 
-> 增长反应活化能 ![]https://chart.googleapis.com/chart?cht=tx&chl=$E_p$ 
+> 增长反应活化能 ![](https://chart.googleapis.com/chart?cht=tx&chl=$E_p$) 
 >
-> 链终止反应活化能![]https://chart.googleapis.com/chart?cht=tx&chl=$ E_t$ 
+> 链终止反应活化能![](https://chart.googleapis.com/chart?cht=tx&chl=$ E_t$) 
 >
-> 引发剂分解活化能 ![]https://chart.googleapis.com/chart?cht=tx&chl=$E_d$ （占主要地位，选择 ![]https://chart.googleapis.com/chart?cht=tx&chl=$E_d $较低的引发剂，则可显著加速聚合）
+> 引发剂分解活化能 ![](https://chart.googleapis.com/chart?cht=tx&chl=$E_d$) （占主要地位，选择 ![](https://chart.googleapis.com/chart?cht=tx&chl=$E_d $)较低的引发剂，则可显著加速聚合）
 >
 > 引发剂种类和用量是**控制聚合速率的主要手段**
 
@@ -529,7 +529,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 ![1561277009190](IMG/高分子复习/1561277009190.png)
 
--  体系变粘后，链段重排受到阻碍，双基终止困难，**链终止反应受扩散变慢**，终止速率![]https://chart.googleapis.com/chart?cht=tx&chl=$k_t$常数显著下降。
+-  体系变粘后，链段重排受到阻碍，双基终止困难，**链终止反应受扩散变慢**，终止速率![](https://chart.googleapis.com/chart?cht=tx&chl=$k_t$)常数显著下降。
 
 > 链自由基的双基终止过程可分三步：
 > 链自由基的平移 —— **链段重排，使活性中心靠近** —— 双基相互反应而使链终止
@@ -547,11 +547,11 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 16. ## 动力学链长和聚合度的关系
 
-- 动力学链长（![]https://chart.googleapis.com/chart?cht=tx&chl=$v$）：定义为每个活性中心**从引发开始到终止所消耗的单体分子个数**（动力学链长可用增长速率和引发速率之比求得）
-- 动力学链长（![]https://chart.googleapis.com/chart?cht=tx&chl=$v$）和聚合度的关系：
-- 双基偶合终止时：![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}=2v$
-- 歧化终止时：![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}=v$
-- 兼有两种方式终止时：![]https://chart.googleapis.com/chart?cht=tx&chl=$v<\overline{X_n}<2v$、![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}=\frac{v}{\frac{C}{2}+D}$（C、D分别代表偶合中止和歧化终止的百分数）
+- 动力学链长（![](https://chart.googleapis.com/chart?cht=tx&chl=$v$)）：定义为每个活性中心**从引发开始到终止所消耗的单体分子个数**（动力学链长可用增长速率和引发速率之比求得）
+- 动力学链长（![](https://chart.googleapis.com/chart?cht=tx&chl=$v$)）和聚合度的关系：
+- 双基偶合终止时：![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}=2v$)
+- 歧化终止时：![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}=v$)
+- 兼有两种方式终止时：![](https://chart.googleapis.com/chart?cht=tx&chl=$v<\overline{X_n}<2v$)、![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n}=\frac{v}{\frac{C}{2}+D}$)（C、D分别代表偶合中止和歧化终止的百分数）
 
 17. ## 链转移反应对聚合速率和聚合度的影响
 
@@ -561,7 +561,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 - 若活性减弱，则再引发相应变慢，会出现缓聚现象
 - 很稳定，不能再引发增长，就成为阻聚反应
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$k_{tr}$和![]https://chart.googleapis.com/chart?cht=tx&chl=$k_a$、![]https://chart.googleapis.com/chart?cht=tx&chl=$k_p$的速率常数值不同，链转移反应对聚合速率和聚合度的影响有多种情况
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$k_{tr}$)和![](https://chart.googleapis.com/chart?cht=tx&chl=$k_a$)、![](https://chart.googleapis.com/chart?cht=tx&chl=$k_p$)的速率常数值不同，链转移反应对聚合速率和聚合度的影响有多种情况
 
 ![1561278291602](IMG/高分子复习/1561278291602.png)
 
@@ -625,8 +625,8 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 具有**推电子基的烯类单体**原则上可进行阳离子聚合：
 
-- 带推电子取代基的α-烯烃（双烷基α- 烯烃 ![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{CH2=CRR’}$、烷基乙烯基醚 ![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{CH2=CHOR}$）
-- 共轭烯烃单体（![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{CH2=CR-CH=CH2}$、![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{CH2=CHAr}$）
+- 带推电子取代基的α-烯烃（双烷基α- 烯烃 ![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{CH2=CRR’}$)、烷基乙烯基醚 ![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{CH2=CHOR}$)）
+- 共轭烯烃单体（![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{CH2=CR-CH=CH2}$)、![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{CH2=CHAr}$)）
 - 杂环化合物：环结构中含杂原子
 
 ![1561309150482](IMG/高分子复习/1561309150482.png)
@@ -642,13 +642,13 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 ![1561310205997](IMG/高分子复习/1561310205997.png)
 
-> 质子酸先电离产生（![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{H+}$），然后与单体加成形成引发活性中心——活性单体离子对
+> 质子酸先电离产生（![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{H+}$)），然后与单体加成形成引发活性中心——活性单体离子对
 >
-> 质子酸包括：![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{H2SO4}、\ce{H3PO4}、\ce{HClO4}、\ce{CF3COOH}、\ce{CCl3COOH}$
+> 质子酸包括：![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{H2SO4}、\ce{H3PO4}、\ce{HClO4}、\ce{CF3COOH}、\ce{CCl3COOH}$)
 >
 > 弱酸不行、酸根的亲核性不能太强
 >
-> 氢卤酸的（![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{X-}$）亲核性太强，不能作为阳离子聚合引发剂
+> 氢卤酸的（![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{X-}$)）亲核性太强，不能作为阳离子聚合引发剂
 
 2. 电荷转移引发，即引发剂和单体先形成电荷转移络合物而后引发
 
@@ -687,7 +687,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 1. 向单体链转移
 
-- 增长链碳正离子以（![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{H+}$）形式脱去β-氢给单体，这是正离子聚合中最主要普遍存在的也是难以抑制的内在副反应
+- 增长链碳正离子以（![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{H+}$)）形式脱去β-氢给单体，这是正离子聚合中最主要普遍存在的也是难以抑制的内在副反应
 - 导致聚合产物分子量的下降和分子量分布变宽，可通过添加Lewis碱加以抑制
 
 ![1561311008111](IMG/高分子复习/1561311008111.png)
@@ -734,9 +734,9 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 **低温**利于阳离子聚合反应的发生
 
-- 引发时，离子对或自由离解平衡反应![]https://chart.googleapis.com/chart?cht=tx&chl=$E_a$小，引发速率随温度变化不大；
-- 聚合时，![]https://chart.googleapis.com/chart?cht=tx&chl=$终止E_a＞增长E_a$，聚合速率随温度下降而增高；
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$E_\overline{X_n}<０$，聚合度![]https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n }$随温度下降而增高
+- 引发时，离子对或自由离解平衡反应![](https://chart.googleapis.com/chart?cht=tx&chl=$E_a$)小，引发速率随温度变化不大；
+- 聚合时，![](https://chart.googleapis.com/chart?cht=tx&chl=$终止E_a＞增长E_a$)，聚合速率随温度下降而增高；
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$E_\overline{X_n}<０$)，聚合度![](https://chart.googleapis.com/chart?cht=tx&chl=$\overline{X_n }$)随温度下降而增高
 
 5. ## 哪种烯类单体原则上可进行阴离子聚合
 
@@ -753,7 +753,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 - 形成的碳负离子活性中心由于取代基的**共轭效应而稳定**（分散负电性，稳定活性中心），因而易于负离子聚合
 - 具有给电子p-π共轭效应的吸电子取代基单体，由于**p-π给电子共轭效应减弱了吸电子诱导效应**对双键电子云密度的降低程度，因而不易受负离子的进攻，**不易**负离子聚合。
 
-- 羰基化合物（如 ![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{HCHO}$）
+- 羰基化合物（如 ![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{HCHO}$)）
 
 - 杂环化合物：一般是一些含氧、氮等杂原子的环状化合物
 
@@ -771,7 +771,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 引发剂离解产生的负离子与单体加成引发聚合反应
 
-> 金属氨基化合物（![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{MtNH2}$）、醇盐（![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{RO-}$）、酚盐（![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{PhO-}$）、有机金属化合物（![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{MtR}$）、格氏试剂（![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{RMgX}$)等。
+> 金属氨基化合物（![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{MtNH2}$)）、醇盐（![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{RO-}$)）、酚盐（![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{PhO-}$)）、有机金属化合物（![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{MtR}$)）、格氏试剂（![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{RMgX}$))等。
 
 ![1561312560062](IMG/高分子复习/1561312560062.png)
 
@@ -783,7 +783,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 链转移
 
-负离子聚合从增长链上脱去氢负离子（![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{H-}$）发生链转移的**活化能相当高**，一般**难以进行**
+负离子聚合从增长链上脱去氢负离子（![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{H-}$)）发生链转移的**活化能相当高**，一般**难以进行**
 
 ![1561313024991](IMG/高分子复习/1561313024991.png)
 
@@ -839,13 +839,13 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 聚合增长过程中烯烃单体的碳碳双键首先与活性中心的过渡金属原子的空轨道进行配位，形成某种络合物（配合物）配位，然后进一步发生移位，使**单体插入到金属—碳键之间**，进行插入聚合，**聚合产物呈定向立构，具有立构规整结构**。又称络合聚合反应。
 
 >聚合体系一般需要严格的无水、无氧、高纯、惰性介质（烃类溶剂）；
->配位聚合的单体有选择性：![]https://chart.googleapis.com/chart?cht=tx&chl=$\alpha$-烯烃、双烯烃、 环烯烃、炔烃等极性单体（醚、酯、酸、氰     酰胺）及含卤单体不易聚合。
+>配位聚合的单体有选择性：![](https://chart.googleapis.com/chart?cht=tx&chl=$\alpha$)-烯烃、双烯烃、 环烯烃、炔烃等极性单体（醚、酯、酸、氰     酰胺）及含卤单体不易聚合。
 
 - 链引发
 
 - 带空位的Ti经烷基化后成为活性中心
 
-- 活性中心的特征：具有![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{Mt-C}$ 键、具有空配位
+- 活性中心的特征：具有![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{Mt-C}$) 键、具有空配位
 
 - 链增长
 
@@ -856,7 +856,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 - 链终止
 
 1. 醇、羧酸、胺、水等含活泼氢的化合物能与活性中心反应，使之失活
-2. ![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{O2, CO2，CO}$，酮等也能导致链终止，因此单体、溶剂要严格纯化，聚合体系要严格排除空气
+2. ![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{O2, CO2，CO}$)，酮等也能导致链终止，因此单体、溶剂要严格纯化，聚合体系要严格排除空气
 
 11. ## 开环聚合热力学和动力学分析
 
@@ -929,28 +929,28 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 2. ## 竞聚率的定义，反映什么
 
-- 竞聚率（r）: ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1=\frac{k_{11}}{k_{12}}、r_2=\frac{k_{21}}{k_{22}}$**均聚速率常数和共聚速率常数**之比
+- 竞聚率（r）: ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1=\frac{k_{11}}{k_{12}}、r_2=\frac{k_{21}}{k_{22}}$)**均聚速率常数和共聚速率常数**之比
 - 竟聚率反映了**单体自聚和共聚能力的竞争**，是计算共聚物组成的重要参数
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1=0\to k_{11}＝0$ ,只能共聚，活性端基只能加上异种单体
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$ r_1=\infin \to      k_{11}>>k_{12}$ ，只能均聚，实际并无此特况
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1  = 1$ ，均聚＝共聚，活性端基加上两种单体难易程度相同
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1<1 \to k_{11}<k_{12}$ ，共聚能力大于均聚，端基更利于加上异种单体
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1>1     \to k_{11}>k_{12}$ ，单体更易均聚
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1=0\to k_{11}＝0$) ,只能共聚，活性端基只能加上异种单体
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$ r_1=\infin \to      k_{11}>>k_{12}$) ，只能均聚，实际并无此特况
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1  = 1$) ，均聚＝共聚，活性端基加上两种单体难易程度相同
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1<1 \to k_{11}<k_{12}$) ，共聚能力大于均聚，端基更利于加上异种单体
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1>1     \to k_{11}>k_{12}$) ，单体更易均聚
 
 3. ## 共聚曲线图（理想恒比共聚，交替共聚，恒比点共聚，无恒比点非理想共聚，嵌段共聚）
 
-- 理想恒比共聚（![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1＝ r_2＝1$）
+- 理想恒比共聚（![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1＝ r_2＝1$)）
 
 - r＝1	均聚＝共聚 
 - 曲线形状：为一对角线 [ / ]
-- 组成方程：![]https://chart.googleapis.com/chart?cht=tx&chl=$\frac{d[M_1]}{d[M_2]}=\frac{[M_1]}{[M_2]}$
+- 组成方程：![](https://chart.googleapis.com/chart?cht=tx&chl=$\frac{d[M_1]}{d[M_2]}=\frac{[M_1]}{[M_2]}$)
 - 特点： F1＝ f1 ，组成与转化率无关，组成均一。
 
-- 交替共聚（![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1→0，r_2→0， r_1·r_2＝0$）
+- 交替共聚（![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1→0，r_2→0， r_1·r_2＝0$)）
 
--   ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1=r_2＝0、k_{11}=0（k_{11}→0）$	只能共聚
+-   ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1=r_2＝0、k_{11}=0（k_{11}→0）$)	只能共聚
 
-- 组成方程：![]https://chart.googleapis.com/chart?cht=tx&chl=$\frac{d[M_1]}{d[M_2]}=1、F_1=0.5$
+- 组成方程：![](https://chart.googleapis.com/chart?cht=tx&chl=$\frac{d[M_1]}{d[M_2]}=1、F_1=0.5$)
 
 - 组成曲线：水平线或近似水平线
 
@@ -958,59 +958,59 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 特点：共聚物组成1：1，组成均一
 
-- 恒比点共聚（![]https://chart.googleapis.com/chart?cht=tx&chl=$ r_1<1、r_2<1$）
+- 恒比点共聚（![](https://chart.googleapis.com/chart?cht=tx&chl=$ r_1<1、r_2<1$)）
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1<1、k_{11}<k_{12}；r_2<1、k_{21}>k_{22}$ ， 易共聚
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1<1、k_{11}<k_{12}；r_2<1、k_{21}>k_{22}$) ， 易共聚
 
-- 组成方程：![]https://chart.googleapis.com/chart?cht=tx&chl=$\frac{d[M_1]}{d[M_2]}=\frac{[M_1]}{[M_2]}$
+- 组成方程：![](https://chart.googleapis.com/chart?cht=tx&chl=$\frac{d[M_1]}{d[M_2]}=\frac{[M_1]}{[M_2]}$)
 
-- 在恒比点需满足：![]https://chart.googleapis.com/chart?cht=tx&chl=$\frac{[M_1]}{[M_2]}=\frac{r_2-1}{r_1-1}、f_1=\frac{1-r_2}{2-r_1-r_2}$
+- 在恒比点需满足：![](https://chart.googleapis.com/chart?cht=tx&chl=$\frac{[M_1]}{[M_2]}=\frac{r_2-1}{r_1-1}、f_1=\frac{1-r_2}{2-r_1-r_2}$)
 
 - 组成曲线：与恒比对角线有一交点的曲线
 
 ![1561318789798](IMG/高分子复习/1561318789798.png)
 
-- 无恒比点非理想共聚（![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2 <1 $）
+- 无恒比点非理想共聚（![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2 <1 $)）
 
 
 
-1. ​	![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1>1、r_2<1$
+1. ​	![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1>1、r_2<1$)
 
 - M1易均聚，M2易共聚。
 - 曲线不对称，不与恒比对角线相交，在其上方
 
 ![1561319019020](IMG/高分子复习/1561319019020.png)
 
-2. ​	![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1<1、r_2>1$
+2. ​	![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1<1、r_2>1$)
 
 - M1易共聚，M2易均聚
 - 组成曲线处于对角线的下方
 
-- 嵌段共聚（![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1 >1 , r_2 >1 $）
+- 嵌段共聚（![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1 >1 , r_2 >1 $)）
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1 > 1、r_2 > 1；k_{11} > k_{12}、k_{22} > k_{21}  $ ，单体均易均聚
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1 > 1、r_2 > 1；k_{11} > k_{12}、k_{22} > k_{21}  $) ，单体均易均聚
 - 形成嵌段共聚物，链段长短决定于r1、r2大小
-- 有恒比点，曲线形状及位置与恒比点共聚（ ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1<1,r_2<1$）相反
+- 有恒比点，曲线形状及位置与恒比点共聚（ ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1<1,r_2<1$)）相反
 
 - **总结**
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2→1$ 理想共聚，组成曲线为一对称曲线。
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2→1$) 理想共聚，组成曲线为一对称曲线。
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1＝r_2＝1$，恒比共聚,共聚物组成曲线是对角线
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1＝r_2＝1$)，恒比共聚,共聚物组成曲线是对角线
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1>1$时，共聚物组成曲线在恒比对角线的上方
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_2>1$时，共聚物组成曲线在恒比对角线的下方
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1>1$)时，共聚物组成曲线在恒比对角线的上方
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_2>1$)时，共聚物组成曲线在恒比对角线的下方
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2→0$  交替共聚  
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2→0$)  交替共聚  
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2＝0$，组成曲线是水平线
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2→0$ ，与水平线有交点的曲线
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2＝0$)，组成曲线是水平线
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2→0$) ，与水平线有交点的曲线
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2<1 $（与恒比对角线有一交点的曲线）
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1·r_2<1 $)（与恒比对角线有一交点的曲线）
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$ r_1<1， r_2<1 $ ，恒比点共聚
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$ r_1<1， r_2<1 $) ，恒比点共聚
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_1>1， r_2<1$ 或  ![]https://chart.googleapis.com/chart?cht=tx&chl=$r_2>1 ，r_1<1$   非理想共聚
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_1>1， r_2<1$) 或  ![](https://chart.googleapis.com/chart?cht=tx&chl=$r_2>1 ，r_1<1$)   非理想共聚
 
 ![1561319956621](IMG/高分子复习/1561319956621.png)
 
@@ -1023,7 +1023,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 由于共聚时活性较大的单体先消耗，因此**在聚合过程中陆续补加活性较大的单体**，以**保持体系中单体组成基本恒定**。补加方法可以是连续补加和分段补加。
 
 - 控制转化率
-在不同![]https://chart.googleapis.com/chart?cht=tx&chl=$f_1$值时，转化率较低时，![]https://chart.googleapis.com/chart?cht=tx&chl=$F_1$变化都不大。因此**控制较低的转化率**，可制备组成基本恒定的共聚物。
+在不同![](https://chart.googleapis.com/chart?cht=tx&chl=$f_1$)值时，转化率较低时，![](https://chart.googleapis.com/chart?cht=tx&chl=$F_1$)变化都不大。因此**控制较低的转化率**，可制备组成基本恒定的共聚物。
 
 - 控制转化率+补加单体法
 如果将控制转化率和补加单体两种方法结合使用，则效果更好。
@@ -1125,7 +1125,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 - 通过共聚在高分子链结构中引入极少量的感光基团，如酮基、双键等，并通过控制感光基团的含量**控制聚合物的寿命**。
 - 生物降解塑料：
 - 不完全生物降解塑料：高分子仅能被分解为散乱碎片，**降解不彻底**。生物降解高聚物与普通塑料共混。如淀粉添加的PS。
-- 完全生物降解塑料：完全分解为![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{CO2}$和![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{H2O}$（微生物合成高分子、化学合成高分子、天然高分子及其衍生物）
+- 完全生物降解塑料：完全分解为![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{CO2}$)和![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{H2O}$)（微生物合成高分子、化学合成高分子、天然高分子及其衍生物）
 
 # <span id="head7"> 第七章聚合物链的结构</span>
 
@@ -1137,7 +1137,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 - 构型：结构单元的键接方式、结构单元的空间立构、支化与交联、序列分布（共聚物）
 - 远程结构（二次结构）
 - 分子量及分布
-- 分子链尺寸和形态（刚柔性![]https://chart.googleapis.com/chart?cht=tx&chl=$\to$构象） 
+- 分子链尺寸和形态（刚柔性![](https://chart.googleapis.com/chart?cht=tx&chl=$\to$)构象） 
 - 凝聚态结构（三次结构）
 - 高分子材料整体结构：晶态、液晶态、无定型态、取向态
 - 高次结构：多组分体系的织态结构
@@ -1213,8 +1213,8 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 6. ## 影响聚合物链柔顺性的内在因素
 
-> 末端距（![]https://chart.googleapis.com/chart?cht=tx&chl=$\overrightarrow{h}$）——线型高分子**链的一端到另一端**的直线距离。这是一个向量，**高分子链愈柔顺、卷曲愈厉害，愈小。**
-> 均方末端距（![]https://chart.googleapis.com/chart?cht=tx&chl=$\overrightarrow{h}^2$）——由于构象随时在改变，所以末端距也在变化，只好求平均值，但由于方向任意，所以平均值必为零，没有意义。所以**先将末端距（![]https://chart.googleapis.com/chart?cht=tx&chl=$\overrightarrow{h}$）平方再平均，就有意义了，这是一个标量**。
+> 末端距（![](https://chart.googleapis.com/chart?cht=tx&chl=$\overrightarrow{h}$)）——线型高分子**链的一端到另一端**的直线距离。这是一个向量，**高分子链愈柔顺、卷曲愈厉害，愈小。**
+> 均方末端距（![](https://chart.googleapis.com/chart?cht=tx&chl=$\overrightarrow{h}^2$)）——由于构象随时在改变，所以末端距也在变化，只好求平均值，但由于方向任意，所以平均值必为零，没有意义。所以**先将末端距（![](https://chart.googleapis.com/chart?cht=tx&chl=$\overrightarrow{h}$)）平方再平均，就有意义了，这是一个标量**。
 
 - 当链结数和单键长度一定时，链愈柔顺，其**均方末端距**愈小；
 
@@ -1230,10 +1230,10 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 主链结构对高分子链柔性影响很显著
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{Si－O > C－N > C－O > C－C}$
+![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{Si－O > C－N > C－O > C－C}$)
 
 - 主链完全由C-C键组成的碳链高分子都具有较大的柔性。如PE，PP。
-- 杂链高分子中![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{C-O，C-N，Si-O}$等单键的内旋转位垒都比C-C的小，构象转化容易，构象多，所以柔性好。
+- 杂链高分子中![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{C-O，C-N，Si-O}$)等单键的内旋转位垒都比C-C的小，构象转化容易，构象多，所以柔性好。
 - 主链上带有内双键的高分子，如果不是共轭双键，则**尽管双键本身不能内旋转，但与之邻接的单键却更容易内旋转。**
 - 主链上带有**共轭双键的高分子**或主键上**带有苯环的高分子链，则分子的刚性大大提高**，柔性则大大下降。
 
@@ -1291,17 +1291,17 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 内聚能：
 
-为克服分子间作用力，将1mol凝聚体汽化时所需要的能量![]https://chart.googleapis.com/chart?cht=tx&chl=$\Delta E$（![]https://chart.googleapis.com/chart?cht=tx&chl=$\Delta E = \Delta H_v - RT$）（![]https://chart.googleapis.com/chart?cht=tx&chl=$\Delta H_v$摩尔汽化热或摩尔升华热，![]https://chart.googleapis.com/chart?cht=tx&chl=$RT$气化时所做的膨胀功）
+为克服分子间作用力，将1mol凝聚体汽化时所需要的能量![](https://chart.googleapis.com/chart?cht=tx&chl=$\Delta E$)（![](https://chart.googleapis.com/chart?cht=tx&chl=$\Delta E = \Delta H_v - RT$)）（![](https://chart.googleapis.com/chart?cht=tx&chl=$\Delta H_v$)摩尔汽化热或摩尔升华热，![](https://chart.googleapis.com/chart?cht=tx&chl=$RT$)气化时所做的膨胀功）
 
 - 内聚能密度(CED)：
 
-单位体积凝聚体汽化时所需要的能量（![]https://chart.googleapis.com/chart?cht=tx&chl=$CED=\frac{\Delta E}{V_m}$）（![]https://chart.googleapis.com/chart?cht=tx&chl=$V_m$摩尔体积）
+单位体积凝聚体汽化时所需要的能量（![](https://chart.googleapis.com/chart?cht=tx&chl=$CED=\frac{\Delta E}{V_m}$)）（![](https://chart.googleapis.com/chart?cht=tx&chl=$V_m$)摩尔体积）
 
 2. ## CED划分聚合物类型
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$CED< 290$ ：橡胶：分子间力较小，分子链较柔顺，易变形，有弹性；
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$290<CED<420$ ：塑料：分子间力居中，分子链刚性较大；
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$CED>420$ ：纤维：分子间力大，有较高的强度。
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$CED< 290$) ：橡胶：分子间力较小，分子链较柔顺，易变形，有弹性；
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$290<CED<420$) ：塑料：分子间力居中，分子链刚性较大；
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$CED>420$) ：纤维：分子间力大，有较高的强度。
 
 3. ## 聚合物分子运动的特点
 
@@ -1340,15 +1340,15 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 三种**力学形态**：
 
-- 玻璃态（![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g$ 以下）
+- 玻璃态（![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g$) 以下）
 
-**链段运动被冻结**，此时只有较小的运动单元如链节、侧基等能运动，以及键长、键角的变化，聚合物类似玻璃，通常为**脆性的**，模量为 ![]https://chart.googleapis.com/chart?cht=tx&chl=$10^4 - 10^{11}Pa$
+**链段运动被冻结**，此时只有较小的运动单元如链节、侧基等能运动，以及键长、键角的变化，聚合物类似玻璃，通常为**脆性的**，模量为 ![](https://chart.googleapis.com/chart?cht=tx&chl=$10^4 - 10^{11}Pa$)
 
-- 高弹态（ ![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g—  T_f$ ）
+- 高弹态（ ![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g—  T_f$) ）
 
 链段运动激化，但分子链间无滑移；受力后能产生可以回复的大形变（100～1000％），称之为**高弹态，为聚合物特有的力学状态**。模量进一步降低，聚合物表现出**橡胶行为**
 
-- 粘流态（![]https://chart.googleapis.com/chart?cht=tx&chl=$T_f$ 以上）
+- 粘流态（![](https://chart.googleapis.com/chart?cht=tx&chl=$T_f$) 以上）
 
 行为与小分子液体类似，大分子链受外力作用时发生位移，且**无法回复**。
 
@@ -1356,13 +1356,13 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 两个**转变区域**：
 
-- 玻璃化转变（![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g$玻璃化温度）
+- 玻璃化转变（![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g$)玻璃化温度）
 
 玻璃化转变为高弹态，转变温度称为玻璃化温度
 
 整个大分子链还无法运动，但链段开始发生运动，模量下降3~4个数量级，聚合物行为与皮革类似（**某些液体在温度迅速下降时被固化成为玻璃态而不发生结晶作用, 这就叫做玻璃化转变**）
 
-- 粘流转变（![]https://chart.googleapis.com/chart?cht=tx&chl=$T_f $粘流温度）
+- 粘流转变（![](https://chart.googleapis.com/chart?cht=tx&chl=$T_f $)粘流温度）
 
 高弹态转变为粘流态，转变温度称为粘流温度
 
@@ -1374,7 +1374,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 ![1561401201249](IMG/高分子复习/1561401201249.png)
 
-6. ## ![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g$表征高聚物的特征指标
+6. ## ![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g$)表征高聚物的特征指标
 
 - 是非晶性**热塑性塑料使用温度的上限**（如PS、PMMA和硬质PVC聚氯乙烯等）
 - 是非晶性**橡胶使用温度的下限**（如NR天然橡胶、BSR Rubber丁苯橡胶等）
@@ -1387,9 +1387,9 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 热膨胀法
 
-- 在![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g$以下，链段运动被冻结，**热膨胀系数小**；
+- 在![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g$)以下，链段运动被冻结，**热膨胀系数小**；
 
-- 在![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g$以上，链段开始运动，分子链本身也发生膨胀，**膨胀系数大**。
+- 在![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g$)以上，链段开始运动，分子链本身也发生膨胀，**膨胀系数大**。
 
 ![1561402795340](IMG/高分子复习/1561402795340.png)
 
@@ -1411,11 +1411,11 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 3. DSC技术通过对试样因发生热效应而产生的能量变化进行及时的补偿，**始终保持试样与参比物之间的温度相同**，无温差、无热传递，热量损失小，检测信号大，在灵敏度和精度方面相较DTA都有大幅提高
 4. DSC技术的**温度范围**最高已能够达到1650 ℃，极大地拓宽了它的应用前景
 
-8. ## 影响![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g$的因素
+8. ## 影响![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g$)的因素
 
 - 结构因素
 
-- **柔顺性**：凡是导致链段的**活动能力增加**的因素均**使![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g$下降**，而导致链段活动能力下降的因素均使![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g$上升。
+- **柔顺性**：凡是导致链段的**活动能力增加**的因素均**使![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g$)下降**，而导致链段活动能力下降的因素均使![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g$)上升。
 
 - 几何结构：
 
@@ -1549,9 +1549,9 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 3. ## 如何测定结晶度？
 
-- 结晶度（![]https://chart.googleapis.com/chart?cht=tx&chl=$f_w$）两种表示方法：
-- 以结晶部分的**质量百分数**来表示：![]https://chart.googleapis.com/chart?cht=tx&chl=$f_w=\frac{W_c}{W_c+W_a}×100\%$
-- 以结晶部分的**体积百分数**来表示：![]https://chart.googleapis.com/chart?cht=tx&chl=$f_w=\frac{V_c}{V_c+V_a}×100\%$
+- 结晶度（![](https://chart.googleapis.com/chart?cht=tx&chl=$f_w$)）两种表示方法：
+- 以结晶部分的**质量百分数**来表示：![](https://chart.googleapis.com/chart?cht=tx&chl=$f_w=\frac{W_c}{W_c+W_a}×100\%$)
+- 以结晶部分的**体积百分数**来表示：![](https://chart.googleapis.com/chart?cht=tx&chl=$f_w=\frac{V_c}{V_c+V_a}×100\%$)
 - 密度法：
 根据测定晶区与非晶区密度来获得
 - **差示扫描量热法（DSC）**：
@@ -1637,7 +1637,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 2. ## 溶度参数的定义
 
-- 溶度参数（![]https://chart.googleapis.com/chart?cht=tx&chl=$\delta = \sqrt{CED}=\sqrt{\frac{\Delta E}{V}}$）：定义为内聚能密度（CED）的平方根
+- 溶度参数（![](https://chart.googleapis.com/chart?cht=tx&chl=$\delta = \sqrt{CED}=\sqrt{\frac{\Delta E}{V}}$)）：定义为内聚能密度（CED）的平方根
 - 非极性聚合物溶度参数与溶剂的**溶度参数愈接近，溶解愈可能自发进行**
 
 3. ## 溶剂选择有三个原则
@@ -1682,19 +1682,19 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 拉伸（简单拉伸）
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$l_0$：材料的起始长度，![]https://chart.googleapis.com/chart?cht=tx&chl=$l$：材料变形后的长度
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$l_0$)：材料的起始长度，![](https://chart.googleapis.com/chart?cht=tx&chl=$l$)：材料变形后的长度
 
-- **拉伸应变** ![]https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon=\frac{l-l_0}{l_0}=\frac{\Delta l}{l_0}$
-- 拉伸应力 ![]https://chart.googleapis.com/chart?cht=tx&chl=$\sigma= \frac{F}{A_0}$
+- **拉伸应变** ![](https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon=\frac{l-l_0}{l_0}=\frac{\Delta l}{l_0}$)
+- 拉伸应力 ![](https://chart.googleapis.com/chart?cht=tx&chl=$\sigma= \frac{F}{A_0}$)
 
 ![1561471350186](IMG/高分子复习/1561471350186.png)
 
 - 简单剪切
 
-材料受到的力![]https://chart.googleapis.com/chart?cht=tx&chl=$F$是**与截面 ![]https://chart.googleapis.com/chart?cht=tx&chl=$A_0$ 相平行**的**大小相等、方向相反**的两个力。
+材料受到的力![](https://chart.googleapis.com/chart?cht=tx&chl=$F$)是**与截面 ![](https://chart.googleapis.com/chart?cht=tx&chl=$A_0$) 相平行**的**大小相等、方向相反**的两个力。
 
-- 切应变（![]https://chart.googleapis.com/chart?cht=tx&chl=$\gamma$）：偏斜角![]https://chart.googleapis.com/chart?cht=tx&chl=$θ$的正切	![]https://chart.googleapis.com/chart?cht=tx&chl=$\gamma=\tan \theta $（切应变足够小时：![]https://chart.googleapis.com/chart?cht=tx&chl=$\gamma \approx \theta$）
-- **剪切应力（![]https://chart.googleapis.com/chart?cht=tx&chl=${\sigma}_s$）**：![]https://chart.googleapis.com/chart?cht=tx&chl=${\sigma}_s=\frac{F}{A_0}$
+- 切应变（![](https://chart.googleapis.com/chart?cht=tx&chl=$\gamma$)）：偏斜角![](https://chart.googleapis.com/chart?cht=tx&chl=$θ$)的正切	![](https://chart.googleapis.com/chart?cht=tx&chl=$\gamma=\tan \theta $)（切应变足够小时：![](https://chart.googleapis.com/chart?cht=tx&chl=$\gamma \approx \theta$)）
+- **剪切应力（![](https://chart.googleapis.com/chart?cht=tx&chl=${\sigma}_s$)）**：![](https://chart.googleapis.com/chart?cht=tx&chl=${\sigma}_s=\frac{F}{A_0}$)
 
 
 
@@ -1702,8 +1702,8 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 均匀压缩
 
-- 在均匀压缩（流体静力）的情况下，材料受围压力（![]https://chart.googleapis.com/chart?cht=tx&chl=$P$），发生体积形变，使材料从起始体积（![]https://chart.googleapis.com/chart?cht=tx&chl=$V_0$）缩小为（![]https://chart.googleapis.com/chart?cht=tx&chl=$V_0-ΔV$）
-- 均匀压缩应变（![]https://chart.googleapis.com/chart?cht=tx&chl=$Δ$）：定义为单位体积的体积减小 ![]https://chart.googleapis.com/chart?cht=tx&chl=$Δ=\frac{\Delta V}{V_0}$
+- 在均匀压缩（流体静力）的情况下，材料受围压力（![](https://chart.googleapis.com/chart?cht=tx&chl=$P$)），发生体积形变，使材料从起始体积（![](https://chart.googleapis.com/chart?cht=tx&chl=$V_0$)）缩小为（![](https://chart.googleapis.com/chart?cht=tx&chl=$V_0-ΔV$)）
+- 均匀压缩应变（![](https://chart.googleapis.com/chart?cht=tx&chl=$Δ$)）：定义为单位体积的体积减小 ![](https://chart.googleapis.com/chart?cht=tx&chl=$Δ=\frac{\Delta V}{V_0}$)
 
 ![1561472189890](IMG/高分子复习/1561472189890.png)
 
@@ -1715,24 +1715,24 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 理想弹性固体：应力-应变关系服从虎克定律，即**应力与应变成正比**，比例常数称为弹性模量，简称模量。
 
-![]https://chart.googleapis.com/chart?cht=tx&chl=$弹性模量（模量）=\frac{应力}{应变}$（单位与应力的单位相同）
+![](https://chart.googleapis.com/chart?cht=tx&chl=$弹性模量（模量）=\frac{应力}{应变}$)（单位与应力的单位相同）
 
-- 杨氏模量：![]https://chart.googleapis.com/chart?cht=tx&chl=$E=\frac{\sigma}{\varepsilon}=\frac{F/A_0}{\Delta l/l_0}$
-- 剪切模量：![]https://chart.googleapis.com/chart?cht=tx&chl=$G=\frac{\sigma_s }{\gamma }=\frac{F}{A_0\tan \theta}$
-- 体积模量：![]https://chart.googleapis.com/chart?cht=tx&chl=$B=\frac{P}{\Delta V/V_0}$
+- 杨氏模量：![](https://chart.googleapis.com/chart?cht=tx&chl=$E=\frac{\sigma}{\varepsilon}=\frac{F/A_0}{\Delta l/l_0}$)
+- 剪切模量：![](https://chart.googleapis.com/chart?cht=tx&chl=$G=\frac{\sigma_s }{\gamma }=\frac{F}{A_0\tan \theta}$)
+- 体积模量：![](https://chart.googleapis.com/chart?cht=tx&chl=$B=\frac{P}{\Delta V/V_0}$)
 
-- 三种模量之间的关系：![]https://chart.googleapis.com/chart?cht=tx&chl=$E=2G(1+v)=3B(1-2v)$
+- 三种模量之间的关系：![](https://chart.googleapis.com/chart?cht=tx&chl=$E=2G(1+v)=3B(1-2v)$)
 
 3. ## 聚合物的高弹性特点
 
 - 高弹态：聚合物特有的基于链段运动的一种力学状态。
-- 高弹性（橡胶弹性）：聚合物（在![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g$以上![]https://chart.googleapis.com/chart?cht=tx&chl=$T_f$以下）处于**高弹态时**所表现出的独特的**力学性质**
+- 高弹性（橡胶弹性）：聚合物（在![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g$)以上![](https://chart.googleapis.com/chart?cht=tx&chl=$T_f$)以下）处于**高弹态时**所表现出的独特的**力学性质**
 - 高弹性特点
 - 弹性模量低（比其它固体物质小得多）
 - 形变量大：可达1000%，一般在500%左右，而普通金属材料的形变量＜1％
 - 高弹形变有时间依赖性（力学松弛特性）：高弹形变靠链段运动实现，而链段运动是松弛过程，**分子运动需要时间，形变需要时间**
 - 形变时有**明显的热效应**（热弹效应）：拉伸——放热、回缩——吸热
-- 对高弹性材料，一方面应努力提高耐老化性能，提高耐热性（提高 ![]https://chart.googleapis.com/chart?cht=tx&chl=$T_f$）；另一方面则需降低其玻璃化温度（降低 ![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g $），改善耐寒性。
+- 对高弹性材料，一方面应努力提高耐老化性能，提高耐热性（提高 ![](https://chart.googleapis.com/chart?cht=tx&chl=$T_f$)）；另一方面则需降低其玻璃化温度（降低 ![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g $)），改善耐寒性。
 
 4. ## 橡胶高弹性的热力学本质
 
@@ -1777,15 +1777,15 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 > 高聚物**受到外力作用时以上三种形变一起发生**，材料总形变为：
 >
-> ​	![]https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon=\varepsilon_1+\varepsilon_2+\varepsilon_3=\frac{\sigma_0}{E_1}+\frac{\sigma_0}{E_2}(1-e^{-t/ \tau'})+\frac{\sigma_0}{\eta_0}t$
+> ​	![](https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon=\varepsilon_1+\varepsilon_2+\varepsilon_3=\frac{\sigma_0}{E_1}+\frac{\sigma_0}{E_2}(1-e^{-t/ \tau'})+\frac{\sigma_0}{\eta_0}t$)
 >
 > 不同温度下，高聚物的形变：
 >
-> ​	![]https://chart.googleapis.com/chart?cht=tx&chl=$T<T_g ——\varepsilon_1$
+> ​	![](https://chart.googleapis.com/chart?cht=tx&chl=$T<T_g ——\varepsilon_1$)
 >
-> ​	![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g<T<T_f——\varepsilon_1+\varepsilon_2$
+> ​	![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g<T<T_f——\varepsilon_1+\varepsilon_2$)
 >
-> ​	![]https://chart.googleapis.com/chart?cht=tx&chl=$T>T_f——\varepsilon_1+\varepsilon_2+\varepsilon_3$
+> ​	![](https://chart.googleapis.com/chart?cht=tx&chl=$T>T_f——\varepsilon_1+\varepsilon_2+\varepsilon_3$)
 >
 > 外力除去后，**首先是ε1的回复，然后是ε2的回复，ε3是永久形变不能回复**
 >
@@ -1793,14 +1793,14 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 普弹形变：**键长、键角**等的运动，**可瞬时恢复，形变量很小，模量大，可逆**
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon_1=\frac{\sigma_0}{E_1}$
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon_1=\frac{\sigma_0}{E_1}$)
 
 ![1561476404406](IMG/高分子复习/1561476404406.png)
 
 - 高弹形变：**链段**运动，可**逐渐恢复**，**形变大，模量小，可逆，松弛过程**
 
-- 松弛时间（![]https://chart.googleapis.com/chart?cht=tx&chl=$\tau'$）：分子链从一个松弛的平衡态构象变到一个紧张的平衡态构象所需的时间
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon_2=\frac{\sigma_0}{E_2}(1-e^{-t/ \tau'})$ 
+- 松弛时间（![](https://chart.googleapis.com/chart?cht=tx&chl=$\tau'$)）：分子链从一个松弛的平衡态构象变到一个紧张的平衡态构象所需的时间
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon_2=\frac{\sigma_0}{E_2}(1-e^{-t/ \tau'})$) 
 
 ![1561476416159](IMG/高分子复习/1561476416159.png)
 
@@ -1808,7 +1808,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 （粘性流动：分子间无化学交联的线形高聚物，会产生分子间的相对滑移。）
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon_3=\frac{\sigma_0}{\eta_0}t$ （本体黏度 ![]https://chart.googleapis.com/chart?cht=tx&chl=$\eta_0$）
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon_3=\frac{\sigma_0}{\eta_0}t$) （本体黏度 ![](https://chart.googleapis.com/chart?cht=tx&chl=$\eta_0$)）
 
 
 
@@ -1827,7 +1827,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 - 外力作用频率低 : 链段**来得及**运动，滞后现象**小**；
 外力作用频率高 : 链段**来不及**运动，聚合物像刚硬材料，滞后现象**小**；
 外力作用**频率不太高：链段可运动，但又不太跟得上，表现出明显滞后**
-- 在![]https://chart.googleapis.com/chart?cht=tx&chl=$T_g$上下几十度范围内，链段能充分运动，但又跟不上，滞后严重。
+- 在![](https://chart.googleapis.com/chart?cht=tx&chl=$T_g$)上下几十度范围内，链段能充分运动，但又跟不上，滞后严重。
 
 - 内耗（力学损耗）
 
@@ -1838,7 +1838,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 > 聚合物分子运动同时具有对时间和温度的依赖性
 
 - 时温等效原理：对于同一个力学松弛可在**较高温度下、较短的时间**内观察到，也可在**较低的温度、较长的时间**内观察到。（升高温度与增加观察时间是等效的）
-- 这个等效性可以借助位移因子![]https://chart.googleapis.com/chart?cht=tx&chl=$α_r$来实现，通过位移因子![]https://chart.googleapis.com/chart?cht=tx&chl=$α_r$可以将某一温度下测定的力学性能转换成另一温度下的力学性能，这就是时温等效原理。
+- 这个等效性可以借助位移因子![](https://chart.googleapis.com/chart?cht=tx&chl=$α_r$)来实现，通过位移因子![](https://chart.googleapis.com/chart?cht=tx&chl=$α_r$)可以将某一温度下测定的力学性能转换成另一温度下的力学性能，这就是时温等效原理。
 
 11. ## 典型的拉伸应力-应变曲线
 
@@ -1883,13 +1883,13 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 >
 > **电介质极化程度越大，Q 值越大，ε 也越大**
 
-- 介电常数（![]https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon$）
+- 介电常数（![](https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon$)）
 
-介质电容器的电容（![]https://chart.googleapis.com/chart?cht=tx&chl=$C$）比真空电容器（![]https://chart.googleapis.com/chart?cht=tx&chl=$C_0$）的电容增加的倍数。 
+介质电容器的电容（![](https://chart.googleapis.com/chart?cht=tx&chl=$C$)）比真空电容器（![](https://chart.googleapis.com/chart?cht=tx&chl=$C_0$)）的电容增加的倍数。 
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon=\frac{C}{C_0}=\frac{Q}{Q_0}=\frac{Q_0+Q'}{Q_0}$
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$\varepsilon=\frac{C}{C_0}=\frac{Q}{Q_0}=\frac{Q_0+Q'}{Q_0}$)
 
-- ![]https://chart.googleapis.com/chart?cht=tx&chl=$Q_0$为极板上的原有电荷，![]https://chart.googleapis.com/chart?cht=tx&chl=$Q'$为感应电荷
+- ![](https://chart.googleapis.com/chart?cht=tx&chl=$Q_0$)为极板上的原有电荷，![](https://chart.googleapis.com/chart?cht=tx&chl=$Q'$)为感应电荷
 
 ![1561489251654](IMG/高分子复习/1561489251654.png)
 
@@ -1920,7 +1920,7 @@ x-聚体的数量分布函数：![]https://chart.googleapis.com/chart?cht=tx&chl
 
 - 结构型：
 
-聚合物自身具有**长的共轭大键**结构，如聚乙炔、聚苯乙炔、聚酞菁铜等，**通过“掺杂”可以提高导电率6～7个数量级**，一个典型例子是用![]https://chart.googleapis.com/chart?cht=tx&chl=$\ce{AsF3}$掺杂聚乙炔。
+聚合物自身具有**长的共轭大键**结构，如聚乙炔、聚苯乙炔、聚酞菁铜等，**通过“掺杂”可以提高导电率6～7个数量级**，一个典型例子是用![](https://chart.googleapis.com/chart?cht=tx&chl=$\ce{AsF3}$)掺杂聚乙炔。
 
 - 电荷转移复合物：
 
